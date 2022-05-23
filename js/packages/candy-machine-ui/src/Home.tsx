@@ -699,7 +699,7 @@ const Home = (props: HomeProps) => {
             display="block"
             style={{ marginTop: 7, color: 'grey' }}
           >
-            Powered by METAPLEX
+            Powered by The NFT Brewery
           </Typography>
         </Paper>
       </Container>
